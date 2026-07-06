@@ -1,4 +1,3 @@
-# Student-Marks-Predictor
 # Student Academic Performance Predictor
 
 An end-to-end Machine Learning project that leverages Supervised Learning to predict a student's final marks. The model implements feature scaling and evaluates key academic indicators to provide continuous performance predictions.
